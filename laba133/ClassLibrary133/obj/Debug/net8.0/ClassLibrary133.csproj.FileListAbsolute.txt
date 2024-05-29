@@ -1,0 +1,12 @@
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\bin\Debug\net8.0\ClassLibrary133.deps.json
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\bin\Debug\net8.0\ClassLibrary133.dll
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\bin\Debug\net8.0\ClassLibrary133.pdb
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\obj\Debug\net8.0\ClassLibrary133.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\obj\Debug\net8.0\ClassLibrary133.AssemblyInfoInputs.cache
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\obj\Debug\net8.0\ClassLibrary133.AssemblyInfo.cs
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\obj\Debug\net8.0\ClassLibrary133.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\obj\Debug\net8.0\ClassLibrary133.sourcelink.json
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\obj\Debug\net8.0\ClassLibrary133.dll
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\obj\Debug\net8.0\refint\ClassLibrary133.dll
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\obj\Debug\net8.0\ClassLibrary133.pdb
+C:\ДАНИИЛ\универ\прога\laba13\laba133\ClassLibrary133\obj\Debug\net8.0\ref\ClassLibrary133.dll
