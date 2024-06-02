@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30CB4E6E-18EE-4FBF-86AF-541A4215C1E0}|laba3123213\\laba3123213.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\laba3123213\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CB4E6E-18EE-4FBF-86AF-541A4215C1E0}|laba3123213\\laba3123213.csproj|solutionrelative:laba3123213\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\classlibrary133\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|solutionrelative:classlibrary133\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\classlibrary133\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|solutionrelative:classlibrary133\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\classlibrary133\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|solutionrelative:classlibrary133\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\classlibrary133\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|solutionrelative:classlibrary133\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\classlibrary133\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|solutionrelative:classlibrary133\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\classlibrary133\\classlibrary133.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E81296B-1952-4F4C-A2C4-E1C462602C59}|ClassLibrary133\\ClassLibrary133.csproj|solutionrelative:classlibrary133\\classlibrary133.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A51B1B9-8CB5-48C8-8E86-740949ED097B}|TestProject2\\TestProject2.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A51B1B9-8CB5-48C8-8E86-740949ED097B}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CB4E6E-18EE-4FBF-86AF-541A4215C1E0}|laba3123213\\laba3123213.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\laba3123213\\laba3123213.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30CB4E6E-18EE-4FBF-86AF-541A4215C1E0}|laba3123213\\laba3123213.csproj|solutionrelative:laba3123213\\laba3123213.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CB4E6E-18EE-4FBF-86AF-541A4215C1E0}|laba3123213\\laba3123213.csproj|c:\\\u0434\u0430\u043D\u0438\u0438\u043B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\laba3123213\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CB4E6E-18EE-4FBF-86AF-541A4215C1E0}|laba3123213\\laba3123213.csproj|solutionrelative:laba3123213\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +64,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\ClassLibrary133\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassLibrary133\\ClassDiagram1.cd",
+              "ToolTip": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\ClassLibrary133\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassLibrary133\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000968|",
+              "WhenOpened": "2024-06-02T08:59:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\TestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\TestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAAJoCAAAAAAAAAAAowKQCAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:47:59.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "laba3123213",
+              "DocumentMoniker": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\laba3123213\\laba3123213.csproj",
+              "RelativeDocumentMoniker": "laba3123213\\laba3123213.csproj",
+              "ToolTip": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\laba3123213\\laba3123213.csproj",
+              "RelativeToolTip": "laba3123213\\laba3123213.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T08:44:58.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassLibrary133",
+              "DocumentMoniker": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\ClassLibrary133\\ClassLibrary133.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary133\\ClassLibrary133.csproj",
+              "ToolTip": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\ClassLibrary133\\ClassLibrary133.csproj",
+              "RelativeToolTip": "ClassLibrary133\\ClassLibrary133.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T08:39:47.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\laba3123213\\Program.cs",
               "RelativeDocumentMoniker": "laba3123213\\Program.cs",
               "ToolTip": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\laba3123213\\Program.cs",
               "RelativeToolTip": "laba3123213\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwDAAAABdAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T18:19:54.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "IInit.cs",
               "DocumentMoniker": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\ClassLibrary133\\IInit.cs",
               "RelativeDocumentMoniker": "ClassLibrary133\\IInit.cs",
               "ToolTip": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\ClassLibrary133\\IInit.cs",
               "RelativeToolTip": "ClassLibrary133\\IInit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:21:16.595Z"
+              "WhenOpened": "2024-05-29T16:21:16.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,9 +147,10 @@
               "RelativeDocumentMoniker": "ClassLibrary133\\Auto.cs",
               "ToolTip": "C:\\\u0414\u0410\u041D\u0418\u0418\u041B\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u043F\u0440\u043E\u0433\u0430\\laba13\\laba133\\ClassLibrary133\\Auto.cs",
               "RelativeToolTip": "ClassLibrary133\\Auto.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAAwHoAAAAAAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAQwJcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:18:52.746Z"
+              "WhenOpened": "2024-05-29T16:18:52.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,17 +162,8 @@
               "RelativeToolTip": "ClassLibrary133\\IdNumber.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:19:53.119Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1010,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "WhenOpened": "2024-05-29T16:19:53.119Z",
+              "EditorCaption": ""
             }
           ]
         }

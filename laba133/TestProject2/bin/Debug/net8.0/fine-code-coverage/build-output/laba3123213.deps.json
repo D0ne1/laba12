@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "laba3123213/1.0.0": {
+        "dependencies": {
+          "ClassLibrary133": "1.0.0"
+        },
+        "runtime": {
+          "laba3123213.dll": {}
+        }
+      },
+      "ClassLibrary133/1.0.0": {
+        "runtime": {
+          "ClassLibrary133.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba3123213/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary133/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
